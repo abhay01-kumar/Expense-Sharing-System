@@ -1,0 +1,17 @@
+{
+  "members": [
+    {
+      "id": "Hsr9gBgCKm2DTdj36p4t-",
+      "name": "ravi"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "R2JFG0DIL8LulrKp9VWHr",
+      "paidBy": "ravi",
+      "amount": 200,
+      "description": "upi",
+      "createdAt": "2026-02-20T05:52:31.309Z"
+    }
+  ]
+}
